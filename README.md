@@ -44,6 +44,7 @@ St. Mary’s High School, Hubballi
 ### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java)
 
 ### Web & Backend
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
@@ -79,8 +80,8 @@ St. Mary’s High School, Hubballi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qalim-i&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalim-i&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qalim-i&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qalim-i&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
