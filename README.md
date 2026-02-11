@@ -111,6 +111,8 @@ St. Mary’s High School, Hubballi
 
 - GitHub: **@qalim-i**
 - LinkedIn: [Qalim F Indikar](https://www.linkedin.com/in/qalim-indikar)
+- Email: [qindikar101@gmail.com](mailto:qindikar101@gmail.com)
+- Instagram: [qalim_indikar](https://www.instagram.com/qalim_fi/)
 
 ---
 
