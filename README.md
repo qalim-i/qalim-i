@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student;Backend+Developer;Data+Driven+Problem+Solver;Learning+by+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;Data+Driven+Problem+Solver;Learning+by+Building" />
 </p>
 
 ---
@@ -80,9 +80,10 @@ St. Mary’s High School, Hubballi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qalim-i&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qalim-i&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qalim-i&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qalim-i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qalim-i&theme=tokyonight&hide_border=true"/>
